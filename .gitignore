@@ -1,1 +1,4 @@
+.idea/
+Demo/crfasrnn_keras/crfrnn_keras_model.h5
+Demo/crfasrnn_keras/src/cpp/high_dim_filter.so
 Demo/images
